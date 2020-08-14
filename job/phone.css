@@ -1,0 +1,56 @@
+.mynavbar{
+    flex-direction: column;
+    text-align: centerd;
+}
+
+#nav-brand{
+    width:100%;
+    text-align: center;
+}
+.mynavbar #search{
+    width: 100%;
+    margin:10px 0px;
+}
+.mynavbar #nav-phn{
+    display:flex;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+
+
+
+
+
+.container{
+    display:flex;
+    flex-direction: column;    
+}
+
+.box-right{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+.container-bottom{
+    display:flex;
+    flex-direction: column;
+    background:url("pics/black1.jpg") center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top:4px;
+}
+                            
+.container-bottom .box{
+    width:100%;
+}
